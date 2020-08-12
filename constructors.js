@@ -14,7 +14,7 @@
   The values for the make and model will come from two parameters, make and model (in that order).
 */
 
-const carFactory = function(make, model) {
+const CarFactory = function(make, model) {
   this.make = make;
   this.model = model;
 };
