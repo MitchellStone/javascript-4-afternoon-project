@@ -38,7 +38,7 @@ function Employee(name, email, hireDate) {
     Assign the result of the invocation to a variable called bob.
   */
   
-  // Code here
+  const bob = new Employee('Bob', 'bob@gmail.com', '01-02-98')
   
   ////////// PROBLEM 3 //////////
   
